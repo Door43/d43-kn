@@ -10,6 +10,10 @@
 
   * [[kn:obs|Open Bible Stories (kn)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kn|d43-kn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kn/archive/master.zip|d43-kn.zip]]
+
 **Recent Changes**
 {{changes>ns = kn}}
 
