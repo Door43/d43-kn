@@ -1,13 +1,8 @@
 
 
-  - [[:kn:obs:01|
-
-ಸೃಷ್ಟಿ  ]]
-  - [[:kn:obs:02|
-
-ಪಾಪದ
-ವಿಶ್ವದ ಪ್ರವೇಶಿಸಿತು  ]]
-  - [[:kn:obs:03|The Flood]]
+  - [[:kn:obs:01|ಸೃಷ್ಟಿ ]]
+  - [[:kn:obs:02|ಪಾಪದ ವಿಶ್ವದ ಪ್ರವೇಶಿಸಿತು ]]
+  - [[:kn:obs:03|ಜಲಪ್ರಳಯವು]]
   - [[:kn:obs:04|God's Covenant with Abraham]]
   - [[:kn:obs:05|The Son of Promise]]
   - [[:kn:obs:06|God Provides for Isaac]]
