@@ -1,75 +1,51 @@
-====== 10. The Ten Plagues ======
+====== 10. ಹತ್ತು ಬಾಧೆಗಳು ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?direct&}}
 
-Moses and Aaron went to Pharaoh. They said, "This is what the God of Israel says, 'Let my people go!'" Pharaoh did not listen to them. Instead of letting the Israelites go free, he forced them to work even harder! 
+ಮೋಶೆ ಮತ್ತು ಆರೋನರು ಫರೋಹನ ಬಳಿಗೆ ಹೋದರು. ಅವರು ಹೇಳಿದ್ದೇನಂದರೆ, "ಇಸ್ರಾಯೇಲರ ದೇವರು ಹೇಳುವದೇನಂದರೆ, "ನನ್ನ ಜನರು ಇಲ್ಲಿಂದ ಹೊರಡಲಿ!’" ಫರೋಹನ ಅವರ ಮಾತುಗಳಿಗೆ ಲಕ್ಷ್ಯಕೊಡಲಿಲ್ಲ. ಇಸ್ರಾಯೇಲರನ್ನು ಕಳುಹಿಸಿಕೊಡುವ ಬದಲು, ಆತನು ಅವರ ಕೆಲಸವನ್ನು ಇನ್ನೂ ಹೆಚ್ಚಿಸಿದನು!
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg?direct&}}
 
+ಜನರನ್ನು ಕಳುಹಿಸಿಕೊಡಲು ಫರೋಹನು ನಿರಾಕರಿಸುತ್ತಲೇ ಇದ್ದನು, ಆದ್ದರಿಂದ ದೇವರು ಐಗುಪ್ತ ದೇಶದ ಮೇಲೆ ಹತ್ತು ಭೀಕರವಾದ ಬಾಧೆಗಳನ್ನು ಬರಮಾಡಿದನು. ಈ ಬಾಧೆಗಳ ಮೂಲಕವಾಗಿ, ದೇವರು ಫರೋಹನಿಗೆ ತಾನು ಫರೋಹನಿಗಿಂತಲೂ ಮತ್ತು ಐಗುಪ್ತದ ಇತರೆ ದೇವರುಗಳಿಗಿಂತಲೂ ಶಕ್ತನು ಎಂಬದನ್ನು ತೋರಿಸಿದನು.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?direct&}}
 
-Pharaoh kept refusing to let the people go, so God sent ten terrible plagues on Egypt. Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and all of Egypt's gods.
+ದೇವರು ನೈಲ್ ನದಿಯ ನೀರನ್ನು ರಕ್ತವಾಗಿ ಮಾಡಿದನು, ಆದರೂ ಫರೋಹನು ಇಸ್ರಾಯೇಲರನ್ನು ಕಳುಹಿಸಿಕೊಡಲಿಲ್ಲ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg?direct&}}
 
+ದೇವರು ಐಗುಪ್ತದೇಶದಲ್ಲೆಲ್ಲಾ ಕಪ್ಪೆಗಳನ್ನು ಬರಮಾಡಿದನು. ಕಪ್ಪಗಳ ಬಾಧೆಯನ್ನು ಹೋಗಲಾಡಿಸುವಂತೆ ಫರೋಹನು ಮೋಶೆಯನ್ನು ಬೇಡಿಕೊಂಡನು. ಆದರೆ ಕಪ್ಪೆಗಳೆಲ್ಲವೂ ಸತ್ತು ಹೋದ ನಂತರ, ಫರೋಹನು ತನ್ನ ಹೃದಯವನ್ನು ಕಠಿಣ ಮಾಡಿಕೊಂಡನು ಮತ್ತು ಇಸ್ರಾಯೇಲರಿಗೆ ಐಗುಪ್ತ ದೇಶದಿಂದ ಹೋಗಲು ಅನುಮತಿಯನ್ನು ಕೊಡಲಿಲ್ಲ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg?direct&}}
 
-God turned the Nile River into blood, but Pharaoh still would not let the Israelites go.
+ಆದ್ದರಿಂದ ದೇವರು ಹೇನಿನ ಬಾಧೆಯನ್ನು ಬರಮಾಡಿದನು. ನಂತರ ಆತನು ಹುಳುಗಳ ಬಾಧೆಯನ್ನು ಬರಮಾಡಿದನು. ಫರೋಹನು ಮೋಶೆ ಮತ್ತು ಆರೋನನನ್ನು ಕರೆಸಿದನು ಮತ್ತು ಈ ಬಾಧೆಗಳಿಂದ ಬಿಡಿಸುವದಾದರೆ, ಇಸ್ರಾಯೇಲರನ್ನು ಕಳುಹಿಸಿಕೊಡುವೆನು ಎಂಬದಾಗಿ ಅವರಿಗೆ ಹೇಳಿದನು. ಮೋಶೆ ಪ್ರಾರ್ಥನೆ ಮಾಡಿದಾಗ ದೇವರು ಹೇನು ಮುಂತಾದ ಹುಳುಗಳೆಲ್ಲಾ ಐಗುಪ್ತ ದೇಶದಿಂದ ಹೋಗಲಾಡಿಸಿದನು. ಆದರೆ ಫರೋಹನು ಮಾತ್ರ ತನ್ನ ಹೃದಯವನ್ನು ಕಠಿಣ ಪಡಿಸಿಕೊಂಡನು ಮತ್ತು ಇಸ್ರಾಯೇಲರನ್ನು ಕಳುಹಿಸಿಕೊಡಲಿಲ್ಲ.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg}}
-
-God sent frogs all over Egypt. Pharaoh begged Moses to take away the frogs. But after all the frogs died, Pharaoh hardened his heart and would not let the Israelites leave Egypt.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg}}
-
-So God sent a plague of gnats. Then he sent a plague of flies. Pharaoh called Moses and Aaron and told them that if they stopped the plague, the Israelites could leave Egypt. When Moses prayed, God removed all the flies from Egypt. But Pharaoh hardened his heart and would not let the people go free.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg?direct&}}
 
 Next, God caused all the farm animals that belonged to the Egyptians to get sick and die. But Pharaoh's heart was hardened, and he would not let the Israelites go.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-07.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-07.jpg?direct&}}
 
 Then God told Moses to throw ashes into the air in front of Pharaoh. When he did, painful skin sores appeared on the Egyptians, but not on the Israelites. God hardened Pharaoh's heart, and Pharaoh would not let the Israelites go free.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?direct&}}
 
 After that, God sent hail that destroyed most of the crops in Egypt and killed anybody who went outside. Pharaoh called Moses and Aaron and told them, "I have sinned. You may go." So Moses prayed, and the hail stopped falling from the sky.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-09.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-09.jpg?direct&}}
 
 But Pharaoh sinned again and hardened his heart. He would not let the Israelites go free.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg?direct&}}
 
 So God caused swarms of locusts to come over Egypt. These locusts ate all the crops that the hail had not destroyed.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-11.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-11.jpg?direct&}}
 
 Then God sent darkness that lasted for three days. It was so dark that the Egyptians could not leave their houses. But there was light where the Israelites lived.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-12.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-12.jpg?direct&}}
 
 Even after these nine plagues, Pharaoh still refused to let the Israelites go free. Since Pharaoh would not listen, God planned to send one last plague. This would change Pharaoh's mind.
 
 //A Bible story from: Exodus 5-10//
-
-
