@@ -8,6 +8,3 @@
 **Recent Changes**
 {{changes>ns = kn:obs}}
 
-**Latest Status**
-{{page>en:uwadmin:kn:obs:status}}
-
