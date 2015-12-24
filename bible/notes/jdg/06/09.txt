@@ -1,0 +1,55 @@
+====== Judges 06:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 But I rescued them from the leaders of Egypt and from all the others who oppressed them. I expelled their enemies from this land, and gave it to your ancestors.
+\v 10 I told you \add and your ancestors\add*, "I am Yahweh, your God. You are now in the land where the descendants of Amor live, but you must not worship the gods whom they worship." But you did not heed me.'~"~'~"
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 But I rescued them from the leaders of Egypt and from all the others who oppressed you. I expelled their enemies from this land, and gave it to you.
+\v 10 I told you and your ancestors, "I am Yahweh, your God. You are now in the land of the Amorites, but you must not worship the gods they worship, here in this land in which you are living." But you did not obey me.'~"~'~"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 9 I rescued you from the power of the Egyptians, and from the power of all who were oppressing you. I drove them out before you and I gave you their land.
+\v 10 I said to you, "I am Yahweh your God; I commanded you not to worship the gods of the Amorites, in whose land you are living." But you have not obeyed my voice.'"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:kn:obe:kt:power]]
+  * [[:kn:obe:other:Egypt]]
+  * [[:kn:obe:kt:oppress]]
+  * [[kn:obe:other:castout]]
+  * [[:kn:obe:kt:yahweh]]
+  * [[:kn:obe:kt:God]]
+  * [[:kn:obe:other:command]]
+  * [[:kn:obe:kt:worship]]
+  * [[:kn:obe:kt:falsegod]]
+  * [[:kn:obe:other:amorite]]
+  * [[:kn:obe:kt:life]]
+  * [[:kn:obe:other:obey]]
+  * [[:kn:obe:other:voice]]
+
+===== Translation Notes: =====
+
+  * **obeyed my voice** - Yahweh refers to himself by what is used to give a command. AT: "not obeyed my command" or "not obeyed me" (See: [[:kn:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:kn:bible:questions:comprehension:jdg:06|Judges Chapter 06 Comprehension Questions]]**
+**[[:kn:bible:notes:jdg:06:07|<<]] | [[:kn:bible:notes:jdg:06:11|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== Psalms 027:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh is the one who gives light \add to my soul\f + \ft Or: spirit \f*\add* and the one who saves me,
+\q2 so I do not \f + \ft rhetorical question \f* need to be afraid of anyone.
+\q1 Yahweh is the one to whom I go for refuge,
+\q2 so I will never be afraid.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh is the one who gives light to my soul and the one who saves me,
+\q2 so I do not  need to be afraid of anyone.
+\q1 Yahweh is the one to whom I go for refuge,
+\q2 so I will never be afraid.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 27
+\d A psalm of David.
+\b
+\q
+\v 1 Yahweh is my light and my salvation;
+\q whom should I fear?
+\q Yahweh is my life's refuge;
+\q whom should I dread?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:kn:obe:other:psalm|psalm]]
+  * [[:kn:obe:other:david|David]]
+  * [[:kn:obe:kt:yahweh|Yahweh]]
+  * [[:kn:obe:kt:light|light]]
+  * [[:kn:obe:kt:salvation|salvation]]
+  * [[:kn:obe:kt:fear|fear, afraid, fear of God, fear of Yahweh]]
+  * [[:kn:obe:kt:life]]
+  * [[:kn:obe:kt:refuge]]
+
+===== Translation Notes: =====
+
+See: [[:kn:ta:workbench:translate:poetry|Translating Poetry]] and [[:kn:ta:vol2:translate:figs_parallelism]]
+
+  * **A psalm of David** - This can also be written as a sentence: “This is a psalm of David“ or “This is a psalm that David wrote.”
+  * **whom should I fear?** - This question emphasizes that there is no one that David should fear. AT: "There is no one that I should be afraid of." (See: [[:kn:ta:vol1:translate:figs_rquestion]])
+  * **whom should I dread?** - This question emphasizes that there is no one that David should be afraid of". AT: "There is no one that I should dread" (See: [[:kn:ta:vol1:translate:figs_rquestion]])
+===== Links: =====
+
+  * **[[:kn:bible:questions:comprehension:psa:027|Psalms Chapter 027 Comprehension Questions]]**
+**[[:kn:bible:notes:psa:026:011|<<]] | [[:kn:bible:notes:psa:027:002|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

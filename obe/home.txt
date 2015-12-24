@@ -1,10 +1,16 @@
-====== Complete List of Important Terms - Kannada ======
+====== Complete List of Important Terms - English ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
   * [[:kn:obe:kt:home]]
   * [[:kn:obe:other:home]]
 
-==== All Important Terms: ====
+==== Does a term need to be in either of these lists? ====
+  * [[:kn:bible:team-info:training:topics:kt-yes-no]]
+  * [[kn:bible:team-info:training:topics:common-words]] - If it's on this list, most likely not.
+  * [[:kn:bible:admin-reports:obe-admin:obe-reject]] - If it's on this list, no.
+
+==== All Terms in the OBE: ====
 
 <nspages kn:obe -r -title -exclude:home -textPages="">
+

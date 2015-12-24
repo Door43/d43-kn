@@ -2,14 +2,14 @@
 
 ===== Facts: =====
 
-Arahah is the name of a large region consisting of three distinct areas: the Jordan Valley, the Dead Sea, and the territory from the Dead Sea to the Gulf of Aqabah. This barren region was traversed by the Isrealites on their journey from Egypt.
+The term "Arabah" is a general reference to a desert plain or region. It often refers to a large desert and plains region that includes the valley surrounding the Jordan River, down to the land from the southern tip of the Dead Sea to the northern tip of the Red Sea. 
 
-  * bullet
-  * bullet
+  * The Israelites traveled through this desert region on their journey from Egypt to the land of Canaan.
+  * The "Sea of the Arabah" is more commonly called the "Salt Sea" or the "Dead Sea."
 
 (Translation suggestions: [[:kn:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: other)
+(See also: [[:kn:obe:other:desert]], [[:kn:obe:other:redsea]], [[:kn:obe:other:jordanriver]], [[:kn:obe:other:canaan]], [[:kn:obe:other:saltsea]], [[:kn:obe:other:egypt]])
 
 ===== Bible References: =====
 
@@ -17,4 +17,4 @@ Arahah is the name of a large region consisting of three distinct areas: the Jor
 
 ~~NOCACHE~~
 
-{{tag>review ktlink}}
+{{tag>publish}}

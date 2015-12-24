@@ -1,0 +1,48 @@
+====== Judges 04:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 At that time Deborah, who was the wife of Lappidoth, was the leader in Israel.
+\v 5 She would sit under her palm tree at a place between Ramah and Bethel, in the hilly area where the descendants of Ephraim lived, and people would come to her and ask her to settle the disputes between them.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 Now Deborah, a woman who proclaimed the word of Yahweh (who was the wife of Lappidoth), and she was a leading judge was in Israel at that time.
+\v 5 She would sit under her palm tree (they called it the "palm of Deborah") at a place between Ramah and Bethel, in the hill country  where the descendants of Ephraim lived, and people would come to her and ask her to settle their legal disputes. She would determine what was right and fair.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 4 Now Deborah, a prophetess (the wife of Lappidoth), was a leading judge in Israel at that time.
+\v 5 She used to sit under the palm of Deborah between Ramah and Bethel in the hill country of Ephraim, and the people of Israel came to her to settle their disputes.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:kn:obe:kt:prophet|prophet]]
+  * [[:kn:obe:other:judgeposition]]
+  * [[:kn:obe:other:israel|Israel]]
+  * [[:kn:obe:other:palm|palm]]
+  * [[:kn:obe:other:ramah|Ramah]]
+  * [[:kn:obe:other:bethel|Bethel]]
+  * [[:kn:obe:other:ephraim|Ephraim]]
+  * [[:kn:obe:other:peoplegroup]]
+===== Translation Notes: =====
+
+  * **Deborah**  - The name of a woman. (See: [[:kn:ta:vol1:translate:translate_names]])
+  * **Lappidoth**  - The name of a man. (See: [[:kn:ta:vol1:translate:translate_names|Translate Names]])
+  * **palm of Deborah**  - This tree was named after Deborah.
+
+===== Links: =====
+
+  * **[[:kn:bible:questions:comprehension:jdg:04|Judges Chapter 04 Comprehension Questions]]**
+**[[:kn:bible:notes:jdg:04:01|<<]] | [[:kn:bible:notes:jdg:04:06|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

@@ -1,0 +1,51 @@
+====== Judges 09:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 When Jotham heard about that, he climbed up Gerizim Mountain. He stood at the top of the mountain and shouted to the people \add down below\add*, "You leaders of Shechem, listen to me, in order that God will listen to you!
+\v 8 One day the trees decided to appoint a king to rule over all of them. So they said to the olive tree, 'You be our king!'
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 When Jotham heard about that, he climbed up Mount Gerizim. He stood at the top of the mountain and shouted to the people down below, "You leaders of Shechem, listen to me, in order that God will listen to you!
+\v 8 One day the trees decided to appoint a king to rule over all of them. So they said to the olive tree, 'You be our king!'
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 7 When Jotham was told about this, he went and stood on the top of Mount Gerizim. He shouted and said to them, “Listen to me, you leaders of Shechem, so that God may listen to you.
+\v 8 The trees once went out to anoint a king over them. And they said to the olive tree, ‘Reign over us.’
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:kn:obe:other:jotham]]
+  * [[:kn:obe:other:shechem]]
+  * [[:kn:obe:kt:god]]
+  * [[:kn:obe:kt:anoint]]
+  * [[:kn:obe:other:king]]
+  * [[:kn:obe:other:olive]]
+  * [[:kn:obe:other:reign]]
+
+===== Translation Notes: =====
+
+  * **Mount Gerizim**  - This is a mountain. (See: [[kn:ta:vol1:translate:translate_names]])
+  * **The trees once went out to anoint a king over them. And they said to the olive tree, ‘Reign over us.’**  - The trees are talked about as if they are people. (See: [[kn:ta:vol2:translate:figs_personification]])
+
+===== Links: =====
+
+  * **[[:kn:bible:questions:comprehension:jdg:09|Judges Chapter 09 Comprehension Questions]]**
+**[[:kn:bible:notes:jdg:09:05|<<]] | [[:kn:bible:notes:jdg:09:09|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

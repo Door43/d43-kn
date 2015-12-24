@@ -5,5 +5,5 @@
 Link to [[:kn:obe:kt:home]] \\ 
 Link to [[:kn:obe:home]]
 
-<nspages kn:obe:other -title -exclude:home -textPages="">
 
+<nspages kn:obe:other -title -exclude:home -textPages="">

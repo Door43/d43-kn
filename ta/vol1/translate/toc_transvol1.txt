@@ -1,0 +1,72 @@
+===== Table of Contents - Translation Manual Volume 1 =====
+
+This module answers the question: What is in Volume 1 of the translation manual?\\
+==== Translation Manual Volume 1 ====
+
+=== Introduction ===
+  - [[kn:ta:vol1:translate:translate_manual]]
+  - [[kn:ta:vol1:translate:translate_terms]]
+  - [[kn:ta:vol1:translate:translate_whatis]]
+  - [[kn:ta:vol1:translate:translate_why]]
+
+=== Defining a Good Translation === 
+  - [[kn:ta:vol1:translate:guidelines_intro]]
+    - [[kn:ta:vol1:translate:guidelines_clear]] 
+    - [[kn:ta:vol1:translate:guidelines_natural]]
+    - [[kn:ta:vol1:translate:guidelines_accurate]]
+    - [[kn:ta:vol1:translate:guidelines_church_approved]]
+
+=== Meaning-Based Translation ===
+  - [[kn:ta:vol1:translate:translate_process]]
+    - [[kn:ta:vol1:translate:translate_discover]]
+    - [[kn:ta:vol1:translate:translate_retell]]
+  - [[kn:ta:vol1:translate:translate_fandm]]
+    - [[kn:ta:vol1:translate:translate_form]]
+    - [[kn:ta:vol1:translate:translate_levels]]
+  - [[kn:ta:vol1:translate:translate_literal]]
+    - [[kn:ta:vol1:translate:translate_wforw]]
+    - [[kn:ta:vol1:translate:translate_problem]]
+  - [[kn:ta:vol1:translate:translate_dynamic]]
+    - [[kn:ta:vol1:translate:translate_tform]]
+
+=== Before Translating ===
+  - [[kn:ta:vol1:translate:choose_team]]
+    - [[kn:ta:vol1:translate:qualifications]]
+  - [[kn:ta:vol1:translate:translate_source_text]]
+    - [[kn:ta:vol1:translate:translate_source_licensing]]
+    - [[kn:ta:vol1:translate:translate_source_version]]
+    - [[kn:ta:vol1:translate:translate_original]]
+    - [[kn:ta:vol1:translate:translate_manuscripts]]
+    - [[kn:ta:vol1:translate:translate_textvariants]]
+  - [[kn:ta:vol1:translate:translate_alphabet]]
+  - [[kn:ta:vol1:translate:writing_decisions]]
+
+=== How to Start Translating === 
+  - [[kn:ta:vol1:translate:translate_what]]
+  - [[kn:ta:vol1:translate:first_draft]]
+  - [[kn:ta:vol1:translate:resources_intro]]
+  - [[kn:ta:vol1:translate:translate_help]]
+    - [[kn:ta:vol1:translate:resources_types]]
+    - [[kn:ta:vol1:translate:resources_links]]
+
+=== Just-in-Time Learning Part 1 ===
+  - [[kn:ta:vol1:translate:translate_unknown]]
+    - [[kn:ta:vol1:translate:translate_names]]
+  - [[kn:ta:vol1:translate:figs_intro]]
+    - [[kn:ta:vol1:translate:figs_metaphor]]
+    - [[kn:ta:vol1:translate:figs_simile]]
+    - [[kn:ta:vol1:translate:figs_rquestion]]
+    - [[kn:ta:vol1:translate:figs_idiom]]
+    - [[kn:ta:vol1:translate:figs_irony]]
+  - [[kn:ta:vol1:translate:figs_order]]
+  - [[kn:ta:vol1:translate:figs_you]]
+    - [[kn:ta:vol1:translate:figs_youdual]]
+    - [[kn:ta:vol1:translate:figs_yousingular]]
+  - [[kn:ta:vol1:translate:figs_explicit]]
+    - [[kn:ta:vol1:translate:figs_explicitinfo]]
+  - [[kn:ta:vol1:translate:figs_hypo]]
+  - [[kn:ta:vol1:translate:figs_events]]
+  - [[kn:ta:vol1:translate:figs_parables]]
+
+
+

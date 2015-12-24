@@ -1,0 +1,47 @@
+====== Acts 18:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 When Gallio was the \add Roman\add* governor of Achaia \add province\add*, the Jewish \add leaders\add* \f + \ft synecdoche \f* there got together and seized Paul. They took him before the governor \add and accused him\add*,
+\v 13 saying, "This man is teaching people \add a false religion, leading them\add* to worship God in ways that are contrary to our \add Jewish\add* laws."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 When Gallio became the Roman governor of the province of Achaia, the Jewish leaders got together and seized Paul. They took him before the governor and accused him,
+\v 13 saying, "This man is teaching people to worship God in ways that go against our Jewish laws."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 But when Gallio became governor of Achaia, the Jews rose up together against Paul and brought him before the judgment seat;
+\v 13 they said, "This man persuades people to worship God contrary to the law."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:kn:obe:other:governor]]
+  * [[:kn:obe:other:jew]]
+  * [[:kn:obe:other:paul]]
+  * [[:kn:obe:kt:judge]]
+  * [[:kn:obe:kt:worship]]
+  * [[:kn:obe:kt:god]]
+  * [[:kn:obe:other:law]]
+
+===== Translation Notes: =====
+ 
+  * **Gallio became governor of Achaia** - Achaia was a Roman province which Corinth was part of that is now modern southern Greece. (See: [[kn:ta:vol1:translate:translate_names]])
+  * **brought him before the judgment-seat** - The Jews took Paul by force and brought Paul before the court. Alternate translation: "took him to be judged by the governor" 
+  * **contrary to the law** - The Jews were purposely making Paul's offenses against Jewish laws and customs sound like crimes against Roman law.
+===== Links: =====
+
+  * **[[kn:bible:questions:comprehension:act:18|Acts Chapter 18 Comprehension Questions]]**
+**[[:kn:bible:notes:act:18:09|<<]] | [[:kn:bible:notes:act:18:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

@@ -1,0 +1,62 @@
+====== Psalms 078:21-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 So, when Yahweh heard that, he became very angry,
+\q2 and he sent a fire to burn up \add some of\add* his Israelite people. \f + \ft metonymy, doublet \f*
+\q2
+\v 22 He did that because they did not trust in him,
+\q2 and they did not believe that he would rescue them.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 So when Yahweh heard that, he became very angry,
+\q2 and he sent a fire to burn up some of his Israelite people. 
+\q2
+\v 22 He did that because they did not trust in him,
+\q2 and they did not believe that he would rescue them.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 When Yahweh heard this, he was angry;
+\q so his fire burned against Jacob,
+\q and his anger attacked Israel,
+\q
+\v 22 because they did not believe in God
+\q and did not trust in his salvation.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:kn:obe:kt:yahweh|Yahweh]]
+  * [[:kn:obe:other:angry|angry, anger]]
+  * [[:kn:obe:other:fire]]
+  * [[:kn:obe:other:jacob|Jacob, Israel]]
+  * [[:kn:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:kn:obe:kt:believe|believe, believe in, belief]]
+  * [[:kn:obe:kt:trust|trust, trustworthy, trustworthiness]]
+  * [[:kn:obe:kt:salvation|salvation]]
+
+===== Translation Notes: =====
+
+  * **his anger attacked Israel** - "because he was angry, he attacked Israel" (See: [[kn:ta:vol2:translate:figs_personification]])
+  * **did not trust in his salvation**  - "did not trust him to save them"
+
+===== Links: =====
+
+  * **[[:kn:bible:questions:comprehension:psa:078|Psalms Chapter 078 Comprehension Questions]]**
+**[[:kn:bible:notes:psa:078:019|<<]] | [[:kn:bible:notes:psa:078:023|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

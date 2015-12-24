@@ -1,0 +1,66 @@
+====== Psalms 022:26-27 ======
+
+===== TFT: =====
+
+<usfm>
+\v 26 The poor people \add whom I have invited to the meal\add* will eat as much as they want.
+\q2 All who come worship Yahweh will praise him.
+\q2 I pray that \add God will enable\add* you all to live a long and happy life!
+\q1
+\v 27 I pray that \add people in all nations, even\add* in the remote areas, will think about Yahweh and turn to him,
+\q2 and that people from all the clans in the world will bow down before him.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 26 The poor people whom I have invited to the meal will eat as much as they want.
+\q2 All who come to worship Yahweh will praise him.
+\q2 I pray that God will enable you all to live a long and happy life!
+\q1
+\v 27 I pray that people in all nations, even in the remote areas, will think about Yahweh and turn to him,
+\q2 and that people from all the clans in the world will bow down before him.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 26 The oppressed will eat and be satisfied;
+\q those who seek Yahweh will praise him.
+\q May your hearts live forever.
+\q
+\v 27 All the peoples of the earth will remember and turn to Yahweh;
+\q all the families of the nations will bow down before you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:kn:obe:kt:oppress|oppress, oppression]]
+  * [[kn:obe:other:heart]]
+  * [[:kn:obe:kt:life]]
+  * [[:kn:obe:kt:forever|forever]]
+  * [[:kn:obe:other:peoplegroup|people group, people]]
+  * [[:kn:obe:other:earth]]
+  * [[:kn:obe:kt:turn]]
+  * [[:kn:obe:other:family|family]]
+  * [[:kn:obe:other:nation|nation]]
+  * [[:kn:obe:kt:bow]]
+===== Translation Notes: =====
+
+  * **May your hearts live forever** - AT: "May you live forever" (See: [[:kn:ta:vol2:translate:figs_synecdoche]])
+  * **will remember and turn to Yahweh** - AT: "will remember Yahweh and return to Yahweh" (See: [[:kn:ta:vol2:translate:figs_ellipsis]])
+  * **all the families of the nations** - AT: "everyone"
+
+===== Links: =====
+
+  * **[[:kn:bible:questions:comprehension:psa:022|Psalms Chapter 022 Comprehension Questions]]**
+**[[:kn:bible:notes:psa:022:024|<<]] | [[:kn:bible:notes:psa:022:028|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

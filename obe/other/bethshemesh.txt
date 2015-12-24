@@ -2,20 +2,20 @@
 
 ===== Facts: =====
 
-Text
-  * bullet
-  * bullet
+Beth Shemesh was the name of a city in the tribe of Judah's territory, approximately 30 kilometers west of Jerusalem.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+  * Beth Shemesh was taken from the Canaanites during Joshua's conquests.
+  * Beth Shemesh was a city that was set aside as a place for the Levite priests to live.
+  * When the Philistines were taking the captured ark of the covenant back to Jerusalem, Beth Shemesh was the first city where they stopped with it.
 
-(See also: other)
+(Translation suggestions: [[:kn:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:kn:obe:other:philistines]], [[:kn:obe:other:arkofthecovenant]], [[:kn:obe:other:canaan]], [[:kn:obe:other:levite]], [[:kn:obe:other:jerusalem]], [[:kn:obe:other:joshua]])
 
 ===== Bible References: =====
 
-{{topic>bethshemesh&nocomments}}
-
-~~DISCUSSION~~
+{{topic>bethshemesh&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>draft 1ki04 ktlink}}
+{{tag>publish}}

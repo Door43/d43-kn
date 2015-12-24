@@ -8,6 +8,10 @@
 
 **Resources**
 
+  * [[:kn:bible:notes:home|translationNotes]]
+  * [[:kn:bible:questions:comprehension:home|translationQuestions]]
+  * [[:kn:obe:home|translationWords]]
+  * [[:kn:ta:vol1:toc|translationAcademy Vol 1]]
   * [[kn:obs|Open Bible Stories (kn)]]
 
 **Downloads**

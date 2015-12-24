@@ -1,0 +1,9 @@
+===== Table of Contents - Translation Manual =====
+
+This module answers the question: What is in the translation manual?\\
+{{page>kn:ta:vol1:translate:toc_transvol1}}
+
+{{page>kn:ta:vol2:translate:toc_transvol2}}
+
+
+

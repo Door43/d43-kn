@@ -1,0 +1,49 @@
+====== Deuteronomy 30:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 But if you turn away \add from Yahweh\add* and refuse to heed what he says, and if you allow yourselves to be led away to worship other gods,
+\v 18 I am warning you today that you will \add soon\add* die. You will not live for a long time in the land that you are about to cross the Jordan \add River\add* to enter and possess.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 But if you turn away from Yahweh and refuse to heed what he says, and if you allow yourselves to be led away to worship other gods,
+\v 18 I am warning you today that you will soon die. Your people will not live for very long in the land that you are about to cross the Jordan River to enter and possess.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 17 But if your heart turns away and you do not listen, but instead is drawn away, and if it bows down to other gods and worships them,
+\v 18 then I announce to you today that you will surely perish; you will not prolong your days in the land that you are passing over the Jordan to go into and possess.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:kn:obe:other:heart|heart]]
+  * [[:kn:obe:kt:bow|bow, bow down]]
+  * [[:kn:obe:kt:falsegod|false god, god, goddess]]
+  * [[:kn:obe:kt:worship|worship]]
+  * [[:kn:obe:kt:perish|perish, perishing, perishable]]
+  * [[:kn:obe:other:jordanriver|Jordan River]]
+  * [[:kn:obe:other:possess|possess, possession]]
+
+===== Translation Notes: =====
+
+  * **if your heart turns away**  - AT: "if you turn away from following God" (See: [[:kn:ta:vol2:translate:figs_metonymy]])
+  * **if you allow yourselves to be led away**  - AT: "if you surrender to disobeying God." (See:[[:kn:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[:kn:bible:questions:comprehension:deu:30|Deuteronomy Chapter 30 Comprehension Questions]]**
+[[:kn:bible:notes:deu:30:15|<<]] | [[:kn:bible:notes:deu:30:19|>>]]
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~
