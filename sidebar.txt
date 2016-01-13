@@ -8,11 +8,17 @@
 
 **Resources**
 
-  * [[:kn:bible:notes:home|translationNotes]]
-  * [[:kn:bible:questions:comprehension:home|translationQuestions]]
-  * [[:kn:obe:home|translationWords]]
-  * [[:kn:ta:vol1:toc|translationAcademy Vol 1]]
-  * [[kn:obs|Open Bible Stories (kn)]]
+  *  [[:kn:obs|Open Bible Stories (mr)]]
+      * [[:kn:obs:notes|translationNotes]]
+      * [[:kn:obs:notes:questions:home|translationQuestions]]
+      * [[:kn:obe:home|translationWords]]
+  *  [[:kn:bible:intro|Bible]]
+      * [[:kn:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[:kn:bible:notes:home|translationNotes]]
+      * [[:kn:bible:questions:comprehension:home|translationQuestions]]
+      * [[:kn:obe:home|translationWords]]
+  *  [[:kn:ta|translationAcademy]]
+      * [[:kn:ta:vol1:toc|translationAcademy Vol 1]]
 
 **Downloads**
 
