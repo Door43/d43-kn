@@ -1,28 +1,59 @@
 
-----
-~~NOCACHE~~
 **Door43**
 
-  * [[kn:home|Door43 (kn)]]
-  * [[en:license|License]]
+  * [[kn:home|Door43 (Kannada)]]
+
+**Help**
+
+  * [[:kn:ta|translationAcademy]]
+  * [[:en:get-started|How to Get Started]]
+  * [[:en:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
-  *  [[:kn:obs|Open Bible Stories (mr)]]
+  *  [[:kn:obs|Open Bible Stories]]
       * [[:kn:obs:notes|translationNotes]]
       * [[:kn:obs:notes:questions:home|translationQuestions]]
       * [[:kn:obe:home|translationWords]]
-  *  [[:kn:bible:intro|Bible]]
+  *  [[:en:bible:intro|Bible (English)]]
+      * [[:en:ulb:ep:home|(English) Unlocked Literal Bible]]
+      * [[:en:udb:ep:home|(English) Unlocked Dynamic Bible]]
+      * [[:en:bible:notes:home|(English) translationNotes]]
+      * [[:en:bible:questions:comprehension:home|(English) translationQuestions]]
+      * [[:en:obe:home|(English) translationWords]]
+  * [[:en:lexicon|Open Bible Lexicon (English)]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
+  *  [[:kn:bible:intro|Bible (Kannada)]]
+      * [[:kn:ulb:ep:home|Unlocked Literal Bible]]
       * [[:kn:udb:ep:home|Unlocked Dynamic Bible]]
       * [[:kn:bible:notes:home|translationNotes]]
       * [[:kn:bible:questions:comprehension:home|translationQuestions]]
       * [[:kn:obe:home|translationWords]]
-  *  [[:kn:ta|translationAcademy]]
-      * [[:kn:ta:vol1:toc|translationAcademy Vol 1]]
+  * [[:en:ta|translationAcademy (English)]]
+      * [[:en:ta:vol1:intro:toc_intro|Introduction]]
+      * [[:en:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[:en:ta:vol1:process:toc_processvol1_2|Process Manual]]
+
+
+**About Door43**
+
+  * [[:en:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[:en:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:en:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[:en:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-kn|d43-kn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kn/archive/master.zip|d43-kn.zip]]
+All content for this namesorce is available in the [[https://github.com/Door43/d43-kn|d43-kn repository]].  To download it to a zip file, click [[https://github.com/Door43/d43-kn/archive/master.zip|d43-kn.zip]]
 
 **Recent Changes**
 {{changes>ns = kn}}
