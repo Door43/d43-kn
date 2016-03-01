@@ -9,7 +9,7 @@
 
 
   * **[[:kn:obe:other:nebuchadnezzar]]**
-  * **[[:kn:obe:other:kingdom-of-judah]]**
+  * **[[:kn:obe:other:kingdomofjudah]]**
   * **[[:kn:obe:other:babylon]]**
   * **[[:kn:obe:kt:god]]**
   * **[[:kn:obe:kt:promisedland]]**
