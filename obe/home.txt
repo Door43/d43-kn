@@ -1,9 +1,10 @@
-====== Complete List of Important Terms - English ======
+====== Complete List of translationWords -Kannada ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:kn:obe:kt:home]]
-  * [[:kn:obe:other:home]]
+  * [[:kn:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:kn:obe:other:home|List of the Other Terms in the OBE Directory]]
+
 
 
 ==== All Terms in the OBE: ====
